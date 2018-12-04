@@ -1,0 +1,70 @@
+.photo{
+    border-radius: 50%;
+    width: 50%;
+    border: 2px solid #FD003A;
+}
+.loisir{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.ligne{
+    margin: 0%;
+    padding: 0%;
+    border: 2px solid #FD003A;
+}
+.experience1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+.coordonee-perso{
+    margin : 20px;
+    width: 30%;
+    text-align: center;
+    margin : 20px;
+}
+.photo1{width: 25px;}
+.info{
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: center;   
+}
+.descinfo{
+text-align: start;
+
+}
+.con{margin :20px;}
+.nom_p{
+    margin:0px;
+
+}
+.point{
+    display: flex;
+    flex-direction: row;
+    
+}
+.experience{
+    display: flex;
+    flex-direction: column;
+  text-align: left;
+  margin: 20px;
+}
+.App{
+    display: flex;
+    flex-direction: row;
+}
+.loisir{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.icone{
+ margin : 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
